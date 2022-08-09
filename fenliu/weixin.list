@@ -1,3 +1,4 @@
+#更新时间2022.8.10v1版测试
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net
 HOST,btrace.qq.com
 HOST,dl..com
@@ -494,6 +495,7 @@ HOST-SUFFIX,wx.qq.com
 HOST-SUFFIX,wxapp.tc.qq.com
 HOST-SUFFIX,wxs.qq.com
 HOST-SUFFIX,yun-hl.3g.qq.com
+HOST-SUFFIX,dns.weixin.qq.com
 IP-CIDR,101.32.0.0/20
 IP-CIDR,101.32.102.0/23
 IP-CIDR,101.32.104.0/21
