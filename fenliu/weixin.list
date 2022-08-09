@@ -341,7 +341,6 @@ HOST-SUFFIX,up-hl.3g.qq.com
 HOST-SUFFIX,lbs.map.qq.com
 HOST-SUFFIX,ue.indoorloc.map.qq.com
 HOST-SUFFIX,apis.map.qq.com
-USER-AGENT,*
 USER-AGENT,MicroMessenger*
 HOST,dl..com
 HOST,sgfindershort..com
@@ -362,8 +361,6 @@ HOST-SUFFIX,weixin.qq.com
 HOST-SUFFIX,weixinbridge.com
 HOST-SUFFIX,weixinsxy.com
 HOST-SUFFIX,wxapp.tc.qq.com
-USER-AGENT,MicroMessenger*
-USER-AGENT,*
 IP-CIDR,101.32.104.4/32
 IP-CIDR,101.32.104.41/32
 IP-CIDR,101.32.104.56/32
@@ -758,7 +755,6 @@ IP-CIDR6,2409:8C54:5100::/56
 IP-CIDR6,2409:8C54:810:208:2D::/112
 IP-CIDR6,2409:8C54:871::/60
 IP-CIDR6,2409:8C5C:110:63::/72
-#ChinaTelecomIPv6(WeChat)
 IP-CIDR6,240E:928:1400:10::/112
 IP-CIDR6,240E:965:802:620::/60
 IP-CIDR6,240E:93C:8:10::/60
@@ -816,4 +812,3 @@ HOST-SUFFIX,ue.indoorloc.map.qq.com
 HOST-SUFFIX,up-hl.3g.qq.com
 HOST-SUFFIX,yun-hl.3g.qq.com
 USER-AGENT,WeChat*
-USER-AGENT,MicroMessenger*
