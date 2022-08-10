@@ -1,3 +1,6 @@
+# App Store
+# Store content such as apps, books, and music
+#2022/8/11
 HOST-SUFFIX, push.apple.com
 HOST-SUFFIX,*. push.apple.com
 HOST, time.apple.com
@@ -17,112 +20,13 @@ HOST-keyword, ess.apple.com
 HOST,apps.apple.com
 HOST,itunes.apple.com
 HOST,www-cdn.icloud.com.akadns.net
-HOST-SUFFIX,apple-cloudkit.com
 HOST-SUFFIX,apple-icloud.cn
-HOST-SUFFIX,apple-livephotoskit.com
 HOST-SUFFIX,appleicloud.cn
 HOST-SUFFIX,applemx-icloud.com
-HOST-SUFFIX,apzones.com
-HOST-SUFFIX,cdn-apple.com
-HOST-SUFFIX,gc.apple.com
 HOST-SUFFIX,icloud-apple.cn
-HOST-SUFFIX,icloud-content.com
 HOST-SUFFIX,icloud-isupport.com
-HOST-SUFFIX,icloud.apple.com
 HOST-SUFFIX,icloud.ch
-HOST-SUFFIX,icloud.com
-HOST-SUFFIX,icloud.com.cn
 HOST-SUFFIX,icloud.de
-ip-cidr, 17.188.182.68/24
-ip-cidr, 17.188.182.196/24
-ip-cidr, 17.188.183.4/24
-ip-cidr, 17.188.132.160/24
-ip-cidr, 17.188.182.4/24
-ip-cidr, 17.188.131.13/24
-ip-cidr, 17.188.142.168/24
-ip-cidr, 17.188.172.74/24
-ip-cidr, 17.138.128.4/24
-ip-cidr, 17.137.160.129/24
-ip-cidr, 17.178.96.39/24
-ip-cidr, 17.142.160.39/24
-ip-cidr, 17.172.224.28/24
-ip-cidr, 17.253.142.4/24
-ip-cidr, 223.111.247.160/24
-ip-cidr, 111.43.171.243/24
-ip-cidr, 39.91.130.134/24
-ip-cidr, 111.170.130.248/24
-ip-cidr, 180.122.78.244/24
-ip-cidr, 221.194.161.242/24
-ip-cidr, 58.220.72.166/24
-ip-cidr, 221.194.161.239/24
-ip-cidr, 42.81.247.1/24
-ip-cidr, 221.195.206.1/24
-ip-cidr, 117.149.154.133/24
-ip-cidr, 111.27.127.179/24
-ip-cidr, 211.95.52.137/24
-ip-cidr, 120.221.21.39/24
-ip-cidr, 121.17.252.6/24
-ip-cidr, 183.240.58.86/24
-ip-cidr, 182.40.32.129/24
-ip-cidr, 219.144.69.6/24
-ip-cidr, 117.149.151.203/24
-ip-cidr, 61.240.229.122/24
-ip-cidr, 221.193.246.53/24
-ip-cidr, 223.119.150.225/24
-ip-cidr, 220.170.49.109/24
-ip-cidr, 58.63.247.100/24
-ip-cidr, 42.99.128.162/24
-ip-cidr, 111.170.10.160/24
-ip-cidr, 124.239.244.193/24
-ip-cidr, 113.24.194.97/24
-ip-cidr, 221.182.23.197/24
-ip-cidr, 14.205.72.123/24
-ip-cidr, 221.15.46.147/24
-ip-cidr, 115.223.12.192/24
-ip-cidr, 183.134.12.79/24
-ip-cidr, 112.240.57.228/24
-ip-cidr, 111.31.114.13/24
-ip-cidr, 111.43.165.8/24
-ip-cidr, 117.161.202.100/24
-ip-cidr, 221.204.188.72/24
-ip-cidr, 60.188.75.2/24
-ip-cidr, 117.161.179.115/24
-ip-cidr, 182.40.18.217/24
-ip-cidr, 113.7.202.2/24
-ip-cidr, 60.28.216.222/24
-ip-cidr, 36.103.201.131/24
-ip-cidr, 59.47.225.5/24
-ip-cidr, 17.253.87.201/24
-ip-cidr, 218.29.49.220/24
-ip-cidr, 103.254.191.161/24
-ip-cidr, 111.161.123.171/24
-ip-cidr, 111.48.88.173/24
-ip-cidr, 113.142.160.57/24
-ip-cidr, 36.150.31.54/24
-ip-cidr, 220.249.134.219/24
-ip-cidr, 180.95.178.92/24
-ip-cidr, 106.225.223.214/24
-ip-cidr, 111.31.96.1/24
-ip-cidr, 61.161.1.55/24
-ip-cidr, 222.216.228.88/24
-ip-cidr, 120.39.211.62/24
-ip-cidr, 42.81.55.129/24
-ip-cidr, 223.119.156.61/24
-ip-cidr, 221.195.206.2/24
-ip-cidr, 150.138.167.141/24
-ip-cidr, 60.6.0.134/24
-ip-cidr, 36.136.92.90/24
-ip-cidr, 223.111.16.173/24
-ip-cidr, 183.255.250.1/24
-ip-cidr, 122.227.254.6/24
-ip-cidr, 17.120.252.46/24
-ip-cidr, 17.120.252.51/24
-ip-cidr, 17.120.252.48/24
-ip-cidr, 17.120.252.49/24
-ip-cidr, 17.120.252.50/24
-ip-cidr, 17.120.252.47/24
-ip-cidr, 59.82.17.3/24
-ip-cidr, 140.205.31.68/24
 HOST-SUFFIX,icloud.ee
 HOST-SUFFIX,icloud.fi
 HOST-SUFFIX,icloud.fr
@@ -158,13 +62,11 @@ HOST-SUFFIX,icloudpay.net
 HOST-SUFFIX,icloudsecure.net
 HOST-SUFFIX,icloudsetup.com
 HOST-SUFFIX,ios-icloud.com
-HOST-SUFFIX,iwork.apple.com
 HOST-SUFFIX,me.com
 HOST-SUFFIX,myicloud.net
 HOST-SUFFIX,mylcloud.net
 HOST-SUFFIX,www-cdn.icloud.com.akadns.net
 HOST-SUFFIX,wwwicloud.com
-HOST-KEYWORD,icloud.com.akadns.net
 HOST,beta.apple.com
 HOST,testflight.apple.com
 HOST-KEYWORD,testflight
@@ -186,9 +88,7 @@ HOST,fmfmobile.icloud.com
 HOST,fmipmobile.icloud.com
 HOST,statici.icloud.com
 HOST,api.smoot.apple.cn
-HOST,appldnld.apple.com
 HOST,apple-events.akamaized.net
-HOST,appstoreconnect.apple.com
 HOST,apptrailers.itunes.apple.com
 HOST,cdn.apple-cloudkit.com
 HOST,devimages-cdn.apple.com
@@ -197,16 +97,12 @@ HOST,gs-loc-cn.apple.com
 HOST,init-p01md.apple.com
 HOST,init-p01st.push.apple.com
 HOST,init-s01st.push.apple.com
-HOST,iosapps-ssl.itunes.apple.com
 HOST,iosapps.itunes.apple.com
-HOST,itcmobile.itunes.apple.com
 HOST,js-cdn.music.apple.com
 HOST,music.apple.com
 HOST,osxapps.itunes.apple.com
-HOST,ppq.apple.com
 HOST,supportdownload.apple.com
 HOST,swcdn.apple.com
-HOST,updates-http.cdn-apple.com
 HOST,apple.comscoreresearch.com
 HOST,gateway.icloud.com
 HOST,gspe1-ssl.ls.apple.com
@@ -244,7 +140,6 @@ HOST-SUFFIX,apple.com.mwcname.com
 HOST-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
 HOST-SUFFIX,icloud-sandbox.com
 HOST-SUFFIX,itunes.com.edgekey.net
-HOST-SUFFIX,mzstatic.com
 HOST-SUFFIX,safebrowsing.apple
 HOST-SUFFIX,store.apple.com.edgekey.net
 HOST-SUFFIX,www.apple.com.edgekey.net
@@ -678,7 +573,6 @@ HOST-SUFFIX,adcdownload.apple.com
 HOST-SUFFIX,appldnld.apple.com
 HOST-SUFFIX,appldnld.g.aaplimg.com
 HOST-SUFFIX,appleid.cdn-apple.com
-HOST-SUFFIX,apps.apple.com
 HOST-SUFFIX,apps.mzstatic.com
 HOST-SUFFIX,cdn-cn1.apple-mapkit.com
 HOST-SUFFIX,cdn-cn2.apple-mapkit.com
@@ -748,8 +642,6 @@ HOST-SUFFIX,is4-ssl.mzstatic.com
 HOST-SUFFIX,is4.mzstatic.com
 HOST-SUFFIX,is5-ssl.mzstatic.com
 HOST-SUFFIX,is5.mzstatic.com
-HOST-SUFFIX,itunes-apple.com.akadns.net
-HOST-SUFFIX,itunes.apple.com
 HOST-SUFFIX,itunesconnect.apple.com
 HOST-SUFFIX,mesu-cdn.apple.com.akadns.net
 HOST-SUFFIX,mesu-china.apple.com.akadns.net
@@ -790,93 +682,3 @@ HOST-SUFFIX,www.apple.com
 HOST-SUFFIX,xp.apple.com
 HOST-SUFFIX,organicfruitapps.com
 USER-AGENT,com.apple.geod
-ip-cidr, 17.188.182.68/24
-ip-cidr, 17.188.182.196/24
-ip-cidr, 17.188.183.4/24
-ip-cidr, 17.188.132.160/24
-ip-cidr, 17.188.182.4/24
-ip-cidr, 17.188.131.13/24
-ip-cidr, 17.188.142.168/24
-ip-cidr, 17.188.172.74/24
-ip-cidr, 17.138.128.4/24
-ip-cidr, 17.137.160.129/24
-ip-cidr, 17.178.96.39/24
-ip-cidr, 17.142.160.39/24
-ip-cidr, 17.172.224.28/24
-ip-cidr, 17.253.142.4/24
-ip-cidr, 223.111.247.160/24
-ip-cidr, 111.43.171.243/24
-ip-cidr, 39.91.130.134/24
-ip-cidr, 111.170.130.248/24
-ip-cidr, 180.122.78.244/24
-ip-cidr, 221.194.161.242/24
-ip-cidr, 58.220.72.166/24
-ip-cidr, 221.194.161.239/24
-ip-cidr, 42.81.247.1/24
-ip-cidr, 221.195.206.1/24
-ip-cidr, 117.149.154.133/24
-ip-cidr, 111.27.127.179/24
-ip-cidr, 211.95.52.137/24
-ip-cidr, 120.221.21.39/24
-ip-cidr, 121.17.252.6/24
-ip-cidr, 183.240.58.86/24
-ip-cidr, 182.40.32.129/24
-ip-cidr, 219.144.69.6/24
-ip-cidr, 117.149.151.203/24
-ip-cidr, 61.240.229.122/24
-ip-cidr, 221.193.246.53/24
-ip-cidr, 223.119.150.225/24
-ip-cidr, 220.170.49.109/24
-ip-cidr, 58.63.247.100/24
-ip-cidr, 42.99.128.162/24
-ip-cidr, 111.170.10.160/24
-ip-cidr, 124.239.244.193/24
-ip-cidr, 113.24.194.97/24
-ip-cidr, 221.182.23.197/24
-ip-cidr, 14.205.72.123/24
-ip-cidr, 221.15.46.147/24
-ip-cidr, 115.223.12.192/24
-ip-cidr, 183.134.12.79/24
-ip-cidr, 112.240.57.228/24
-ip-cidr, 111.31.114.13/24
-ip-cidr, 111.43.165.8/24
-ip-cidr, 117.161.202.100/24
-ip-cidr, 221.204.188.72/24
-ip-cidr, 60.188.75.2/24
-ip-cidr, 117.161.179.115/24
-ip-cidr, 182.40.18.217/24
-ip-cidr, 113.7.202.2/24
-ip-cidr, 60.28.216.222/24
-ip-cidr, 36.103.201.131/24
-ip-cidr, 59.47.225.5/24
-ip-cidr, 17.253.87.201/24
-ip-cidr, 218.29.49.220/24
-ip-cidr, 103.254.191.161/24
-ip-cidr, 111.161.123.171/24
-ip-cidr, 111.48.88.173/24
-ip-cidr, 113.142.160.57/24
-ip-cidr, 36.150.31.54/24
-ip-cidr, 220.249.134.219/24
-ip-cidr, 180.95.178.92/24
-ip-cidr, 106.225.223.214/24
-ip-cidr, 111.31.96.1/24
-ip-cidr, 61.161.1.55/24
-ip-cidr, 222.216.228.88/24
-ip-cidr, 120.39.211.62/24
-ip-cidr, 42.81.55.129/24
-ip-cidr, 223.119.156.61/24
-ip-cidr, 221.195.206.2/24
-ip-cidr, 150.138.167.141/24
-ip-cidr, 60.6.0.134/24
-ip-cidr, 36.136.92.90/24
-ip-cidr, 223.111.16.173/24
-ip-cidr, 183.255.250.1/24
-ip-cidr, 122.227.254.6/24
-ip-cidr, 17.120.252.46/24
-ip-cidr, 17.120.252.51/24
-ip-cidr, 17.120.252.48/24
-ip-cidr, 17.120.252.49/24
-ip-cidr, 17.120.252.50/24
-ip-cidr, 17.120.252.47/24
-ip-cidr, 59.82.17.3/24
-ip-cidr, 140.205.31.68/24

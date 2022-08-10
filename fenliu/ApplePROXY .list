@@ -1,0 +1,29 @@
+# App Store
+# Store content such as apps, books, and music
+HOST-SUFFIX,apps.apple.com
+HOST-SUFFIX,itunes.apple.com
+HOST-SUFFIX,itunes-apple.com.akadns.net
+HOST-SUFFIX,mzstatic.com
+HOST,ppq.apple.com
+HOST,appstoreconnect.apple.com
+HOST,iosapps-ssl.itunes.apple.com
+HOST,itcmobile.itunes.apple.com
+HOST,appldnld.apple.com
+HOST,ns.itunes.apple.com
+HOST,gg.apple.com
+HOST,gdmf.apple.com
+HOST,mesu.apple.com
+HOST,updates.cdn-apple.com
+HOST,updates-http.cdn-apple.com
+HOST,xp.apple.com
+HOST-SUFFIX,apple-cloudkit.com
+HOST-SUFFIX,apple-livephotoskit.com
+HOST-SUFFIX,apzones.com
+HOST-SUFFIX,cdn-apple.com
+HOST-SUFFIX,gc.apple.com
+HOST-SUFFIX,icloud.apple.com
+HOST-SUFFIX,icloud.com
+HOST-SUFFIX,icloud.com.cn
+HOST-SUFFIX,icloud-content.com
+HOST-SUFFIX,iwork.apple.com
+HOST-KEYWORD,icloud.com.akadns.net
