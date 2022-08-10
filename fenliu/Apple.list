@@ -1,4 +1,5 @@
-HOST-keyword, push.apple.com
+HOST-SUFFIX, push.apple.com
+HOST-SUFFIX,*. push.apple.com
 HOST, time.apple.com
 HOST-keyword, weather-adge.apple.com
 HOST-keyword, buy.itunes.apple.com
