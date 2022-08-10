@@ -1,5 +1,7 @@
 #Apple推送
 #测试v1
+HOST-SUFFIX, push.apple.com
+HOST-SUFFIX,*. push.apple.com
 ip-cidr, 17.57.145.1/24
 ip-cidr, 17.57.145.2/24
 ip-cidr, 17.57.145.3/24
