@@ -517,7 +517,7 @@ HOST-KEYWORD,apple.com.akadns.net,DIRECT
 HOST-KEYWORD,apple.com.edgekey.net,DIRECT
 HOST-KEYWORD,icoudo,DIRECT
 USER-AGENT,com.apple.appstored*,DIRECT
-USER-AGENTNews*,DIRECT
+USER-AGENT,News*,DIRECT
 USER-AGENT,com.apple.news*,DIRECT
 USER-AGENT,com.apple.trustd*,DIRECT
 USER-AGENTTV*,DIRECT
