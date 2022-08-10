@@ -1,16 +1,18 @@
-#更新时间2022.8.10v1版测试
+#微信分流
+#更新时间2022.8.10 14:16
+#v1版测试 
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net
 HOST,btrace.qq.com
 HOST,dl..com
 HOST,dldir1.qq.com
-HOST,sgfindershort..com
-HOST,sgilinkshort..com
-HOST,sglong..com
-HOST,sgminorshort..com
-HOST,sgshort..com
+HOST,sgfindershort.com
+HOST,sgilinkshort.com
+HOST,sglong.com
+HOST,sgminorshort.com
+HOST,sgshort.com
 HOST,slife.xy-asia.com
 HOST,soup.v.qq.com
-HOST,tencentmap..com
+HOST,tencentmap.com
 HOST,vweixinf.tc.qq.com
 HOST,weixin110.qq.com
 HOST,wup.imtt.qq.com
