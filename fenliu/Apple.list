@@ -7,6 +7,7 @@ HOST, time.apple.com
 HOST-keyword, weather-adge.apple.com
 HOST-keyword, buy.itunes.apple.com
 HOST-keyword, icloud.com
+HOST,gateway.icloud.com.cn
 HOST-keyword, api.smoot.apple.com
 HOST-keyword, api.smoot.apple.cn
 HOST, init.ess.apple.com
