@@ -16,6 +16,7 @@ HOST-keyword, api-adservices.apple.com,DIRECT
 HOST-keyword, ls.apple.com,DIRECT
 HOST-keyword, gsa.apple.com,DIRECT
 HOST-keyword, ess.apple.com,DIRECT
+HOST,csig.apple.com, DIRECT
 HOST,apps.apple.com,DIRECT
 HOST,itunes.apple.com,DIRECT
 HOST,www-cdn.icloud.com.akadns.net,DIRECT
