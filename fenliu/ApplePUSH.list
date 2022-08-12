@@ -199,3 +199,4 @@ ip-cidr,17.188.128.140/24,苹果推送服务
 HOST-SUFFIX,init.push.apple.com,苹果推送服务
 HOST-SUFFIX, push.apple.com,苹果推送服务
 HOST-SUFFIX,*. push.apple.com,苹果推送服务
+HOST,api.push.apple.com,苹果推送服务
