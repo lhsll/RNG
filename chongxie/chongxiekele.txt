@@ -22,9 +22,6 @@ hostname = m.jd.com, www.zhihu.com, api.zhihu.com, appcloud2.zhihu.com, www.baid
 # > 兴业银行好兴动（会弹窗解压失败，需手动关闭）
 ^https?:\/\/file\.cibfintech\.com\/file\/M0[1-9]{1}\/*\/*\/.*.zip url reject-img
 # > reject-img 解压失败，进度100%   reject-200解压失败，进度0%
-# ＞ 淘宝
-^https?+:\/\/heic\.alicdn\.com\/tps\/i3\/.+?\.jpg_1200x1200q90\.jpg_\.heic$ url reject-200
-^https://heic.alicdn.com/imgextra/i3/2209419019448/O1CN01Yf5s3D2JfEnbC80wj_!!2209419019448.jpg_1200x1200q90.jpg_.heic url reject-200
 # > 光大银行，添加主机名后影响APP正常运行
 ^https?:\/\/static\.cebbank\.com\/fileDir\/subject\/resource\/sjyhzqtp\/MOBILEBANKAD\/OPENAD\/.*.png url reject-200
 # > 阳光惠生活
@@ -162,7 +159,7 @@ hostname = m.jd.com, www.zhihu.com, api.zhihu.com, appcloud2.zhihu.com, www.baid
 ^https?:\/\/img\.ddrk\.me\/cover\.png url reject-img
 ^https?:\/\/ddrk\.me\/wp-content\/plugins\/advanced-floating-content-lite\/public\/images\/close\.png url reject-img
 // @Name              小小影视最新版去广告
-https:\/\/.*\..*\..*\/(vod\/reqplay\/|ucp\/index|getGlobalData|init)url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/xxys.js
+https:\/\/.*\..*\..*\/(vod\/reqplay\/|ucp\/index|getGlobalData|init) url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/xxys.js
 # > 奈菲影视
 ^https?:\/\/www\.nfmovies\.com\/pic\/tu\/ url reject-img
 ^https?:\/\/www\.nfmovies\.com\/templets\/default\/images\/logos url reject-img
@@ -1369,4 +1366,4 @@ https:\/\/www\.google\.com\/(m|search).+(q=[^&]+) url script-request-header http
 ^http:\/\/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\/goad\/ad\/ url reject
 ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/ url reject
 # - 哔哩哔哩Upos服务器替换为腾讯Cos对象存储
-^https?:\/\/upos-hz-mirrorakam\.akamaized\.net\/(.*) url 302 https://upos-sz-mirrorcos.bilivideo.com/$1
+^https?:\/\/upos-hz-mirrorakam\.akamaized\.net\/(.*) url 302 https://upos-sz-mirrorcos.bilivideo.com/$1 
